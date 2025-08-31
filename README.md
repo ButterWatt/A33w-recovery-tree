@@ -6,4 +6,8 @@ SoC: `Mediatek MT6582`
 
 >[!IMPORTANT]
 >These file only for `custom recovery` building processes
+>
 >*Who gonna try to use this recovery tree for building custom recovery bruh*
+>
+>[!CAUTION]
+>No caution available :)
